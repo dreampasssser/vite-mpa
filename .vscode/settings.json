@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "always"
+  },
+  "path-intellisense.mappings": {
+    "@": "${workspaceFolder}/src",
+    "@js": "${workspaceFolder}/src/js",
+    "@css": "${workspaceFolder}/src/css",
+    "@images": "${workspaceFolder}/src/images"
+  }
+}

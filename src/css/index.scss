@@ -1,0 +1,16 @@
+body {
+  background: #fff;
+  h1 {
+    height: 100px;
+    width: 500px;
+    background: red;
+  }
+  .img {
+    height: 300px;
+    width: 300px;
+  }
+  img {
+    display: block;
+    object-fit: cover;
+  }
+}
